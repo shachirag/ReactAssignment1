@@ -1,0 +1,90 @@
+.header
+{
+    display:flex;
+    flex-direction:row;
+    background-color: #ffcd9e;
+    padding-top: 10px;
+    padding-bottom: 62px;
+    padding-left: 136px;
+    padding-right: 136px;
+    justify-content:space-between;
+    width: 80vw;
+    height: 59vh;
+}
+
+.left
+{
+    display:flex;
+    flex-direction:column;
+    width: 40vw;
+    height: 10vh;
+    padding-top: 0px;
+}
+
+.left h1
+{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    width: 100vh;
+    height:10vh;
+}
+
+.input-field
+{
+    border: 4px solid black;
+    border-radius: 8px;
+    width: 344px;
+    padding:10px;
+    height: 5vh;
+}
+
+.sub-head
+{
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 32px;
+    padding-top: 20px;
+    width: 444px;
+    height: 10vh;
+}
+
+.span-1
+{
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 81px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 10vh;
+}
+
+.span-2
+{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 44.6px;
+    text-align: center;
+    color: white;
+    width: 344px;
+    margin-top: 4px;
+}
+
+.p1-left h1 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    width: 562px;
+}
+
+.button-field
+{
+    width: 160px;
+    border-radius:8px;
+    height: 57px;
+    background-color: black;
+    color:white;
+    font-size:18px;
+    margin-top: 20px;
+    font-weight: 700;
+}

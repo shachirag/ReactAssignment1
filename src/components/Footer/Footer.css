@@ -1,0 +1,29 @@
+.footer
+{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    justify-content: space-between;
+    padding-left: 191px;
+    padding-right: 193px;
+    height: 30vh;
+    width: 71.9vw;
+}
+
+ul > li {
+    color: white;
+    line-height: 36px;
+    list-style:none;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.ftleft
+{
+    text-align: left;
+}
+
+.ftright
+{
+   text-align: right;
+}
